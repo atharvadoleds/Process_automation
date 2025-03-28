@@ -1,0 +1,267 @@
+WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'Device Integration Manager'    (L-10, T-10, R1930, B1160)
+['WindowsForms10.Window.8.app.0.1d2098a_r8_ad1', 'Device Integration Manager', 'Device Integration ManagerWindowsForms10.Window.8.app.0.1d2098a_r8_ad1', 'WindowsForms10.Window.8.app.0.1d2098a_r8_ad10', 'WindowsForms10.Window.8.app.0.1d2098a_r8_ad11']
+child_window(title="Device Integration Manager", control_type="Siemens.Automation.Pdm.UI.SubControls.ApplicationForm")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L0, T90, R1920, B1123)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad12', 'Source folderWindowsForms10.Window.8.app.0.1d2098a_r8_ad1', 'Source folderWindowsForms10.Window.8.app.0.1d2098a_r8_ad10', 'Source folderWindowsForms10.Window.8.app.0.1d2098a_r8_ad11']
+   | child_window(auto_id="GuiDIM", control_type="Siemens.Automation.Pdm.Dim.DimView.Main.GuiDIM")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L136, T100, R156, B120)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad13', 'Source folderWindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   |    | child_window(auto_id="pictureBox_EddSource", control_type="System.Windows.Forms.PictureBox")
+   |    |
+   |    | Button - ''    (L1876, T131, R1905, B157)
+   |    | ['Device Integration ManagerButton', 'Button', 'Button0', 'Button1']
+   |    | child_window(auto_id="button_ResetFilter4", control_type="System.Windows.Forms.Button")
+   |    |
+   |    | Static - ''    (L763, T135, R869, B153)
+   |    | ['Static', 'Filter3Static', 'Static0', 'Static1', 'Filter3Static0', 'Filter3Static1']
+   |    | child_window(auto_id="label_FilterFileLabel", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | ComboBox - ''    (L159, T98, R1905, B124)
+   |    | ['ComboBox', 'Source folderComboBox', 'ComboBox0', 'ComboBox1', 'Source folderComboBox0', 'Source folderComboBox1']
+   |    | child_window(auto_id="comboBox_FilePath", control_type="Siemens.Automation.Pdm.Dim.DimView.Gui.IconComboBox")
+   |    |    |
+   |    |    | Edit - ''    (L163, T101, R1881, B120)
+   |    |    | ['Edit', 'Source folderEdit', 'Edit0', 'Edit1']
+   |    |    | child_window(class_name="Edit")
+   |    |
+   |    | Edit - ''    (L163, T101, R1881, B120)
+   |    | ['Edit', 'Source folderEdit', 'Edit0', 'Edit1']
+   |    | child_window(class_name="Edit")
+   |    |
+   |    | Static - ''    (L876, T136, R1869, B157)
+   |    | ['Static2', 'Filter3Static2']
+   |    | child_window(auto_id="label_FilterFile", control_type="System.Windows.Forms.Label")
+   |    | 
+   |    | Button - ''    (L203, T131, R232, B157)
+   |    | ['Filter1Button', 'Button2']
+   |    | child_window(auto_id="button_ResetFilter1", control_type="System.Windows.Forms.Button")
+   |    |
+   |    | Button - ''    (L450, T131, R479, B157)
+   |    | ['Filter2Button', 'Button3']
+   |    | child_window(auto_id="button_ResetFilter2", control_type="System.Windows.Forms.Button")
+   |    |
+   |    | Button - ''    (L714, T131, R743, B157)
+   |    | ['Filter3Button', 'Button4']
+   |    | child_window(auto_id="button_ResetFilter3", control_type="System.Windows.Forms.Button")
+   |    |
+   |    | Static - 'Source folder'    (L6, T103, R94, B119)
+   |    | ['Static3', 'Source folder', 'Source folderStatic']
+   |    | child_window(title="Source folder", auto_id="label_EDDSource", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | ComboBox - ''    (L73, T131, R203, B157)
+   |    | ['ComboBox2', 'Source folderComboBox2']
+   |    | child_window(auto_id="comboBox_Filter1", control_type="System.Windows.Forms.ComboBox")
+   |    |    |
+   |    |    | Edit - ''    (L76, T135, R177, B154)
+   |    |    | ['Edit2', 'Filter1Edit']
+   |    |    | child_window(class_name="Edit")
+   |    |
+   |    | Edit - ''    (L76, T135, R177, B154)
+   |    | ['Edit2', 'Filter1Edit']
+   |    | child_window(class_name="Edit")
+   |    |
+   |    | ComboBox - ''    (L583, T131, R712, B157)
+   |    | ['ComboBox3', 'Filter3ComboBox']
+   |    | child_window(auto_id="comboBox_Filter3", control_type="System.Windows.Forms.ComboBox")
+   |    |    |
+   |    |    | Edit - ''    (L586, T135, R686, B154)
+   |    |    | ['Edit3', 'Filter3Edit']
+   |    |    | child_window(class_name="Edit")
+   |    | 
+   |    | Edit - ''    (L586, T135, R686, B154)
+   |    | ['Edit3', 'Filter3Edit']
+   |    | child_window(class_name="Edit")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad14', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad1', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad10', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad11']
+   |    | child_window(auto_id="splitContainerDevList", control_type="System.Windows.Forms.SplitContainer")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad15', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   |    |    |    |
+   |    |    |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    |    |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    |    |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad15', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |    |
+   |    | Static - 'Filter3'    (L520, T135, R644, B151)
+   |    | ['Filter3', 'Static4', 'Filter3Static3']
+   |    | child_window(title="Filter3", auto_id="label_Filter3", control_type="System.Windows.Forms.Label")
+   |    | 
+   |    | Static - 'Filter1'    (L10, T135, R118, B151)
+   |    | ['Filter1', 'Static5', 'Filter1Static']
+   |    | child_window(title="Filter1", auto_id="label_Filter1", control_type="System.Windows.Forms.Label")
+   |    |
+   |    | ComboBox - ''    (L321, T131, R450, B157)
+   |    | ['Filter1ComboBox', 'ComboBox4', 'Filter2ComboBox']
+   |    | child_window(auto_id="comboBox_Filter2", control_type="System.Windows.Forms.ComboBox")
+   |    |    |
+   |    |    | Edit - ''    (L325, T135, R425, B154)
+   |    |    | ['Edit4', 'Filter2Edit']
+   |    |    | child_window(class_name="Edit")
+   |    |
+   |    | Edit - ''    (L325, T135, R425, B154)
+   |    | ['Edit4', 'Filter2Edit']
+   |    | child_window(class_name="Edit")
+   |    |
+   |    | Static - 'Filter2'    (L259, T135, R383, B151)
+   |    | ['Static6', 'Filter2', 'Filter2Static']
+   |    | child_window(title="Filter2", auto_id="label_Filter2", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L136, T100, R156, B120)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad13', 'Source folderWindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   | child_window(auto_id="pictureBox_EddSource", control_type="System.Windows.Forms.PictureBox")
+   |
+   | Button - ''    (L1876, T131, R1905, B157)
+   | ['Device Integration ManagerButton', 'Button', 'Button0', 'Button1']
+   | child_window(auto_id="button_ResetFilter4", control_type="System.Windows.Forms.Button")
+   |
+   | Static - ''    (L763, T135, R869, B153)
+   | ['Static', 'Filter3Static', 'Static0', 'Static1', 'Filter3Static0', 'Filter3Static1']
+   | child_window(auto_id="label_FilterFileLabel", control_type="System.Windows.Forms.Label")
+   |
+   | ComboBox - ''    (L159, T98, R1905, B124)
+   | ['ComboBox', 'Source folderComboBox', 'ComboBox0', 'ComboBox1', 'Source folderComboBox0', 'Source folderComboBox1']
+   | child_window(auto_id="comboBox_FilePath", control_type="Siemens.Automation.Pdm.Dim.DimView.Gui.IconComboBox")
+   |    |
+   |    | Edit - ''    (L163, T101, R1881, B120)
+   |    | ['Edit', 'Source folderEdit', 'Edit0', 'Edit1']
+   |    | child_window(class_name="Edit")
+   |
+   | Edit - ''    (L163, T101, R1881, B120)
+   | ['Edit', 'Source folderEdit', 'Edit0', 'Edit1']
+   | child_window(class_name="Edit")
+   |
+   | Static - ''    (L876, T136, R1869, B157)
+   | ['Static2', 'Filter3Static2']
+   | child_window(auto_id="label_FilterFile", control_type="System.Windows.Forms.Label")
+   |
+   | Button - ''    (L203, T131, R232, B157)
+   | ['Filter1Button', 'Button2']
+   | child_window(auto_id="button_ResetFilter1", control_type="System.Windows.Forms.Button")
+   |
+   | Button - ''    (L450, T131, R479, B157)
+   | ['Filter2Button', 'Button3']
+   | child_window(auto_id="button_ResetFilter2", control_type="System.Windows.Forms.Button")
+   |
+   | Button - ''    (L714, T131, R743, B157)
+   | ['Filter3Button', 'Button4']
+   | child_window(auto_id="button_ResetFilter3", control_type="System.Windows.Forms.Button")
+   |
+   | Static - 'Source folder'    (L6, T103, R94, B119)
+   | ['Static3', 'Source folder', 'Source folderStatic']
+   | child_window(title="Source folder", auto_id="label_EDDSource", control_type="System.Windows.Forms.Label")
+   |
+   | ComboBox - ''    (L73, T131, R203, B157)
+   | ['ComboBox2', 'Source folderComboBox2']
+   | child_window(auto_id="comboBox_Filter1", control_type="System.Windows.Forms.ComboBox")
+   |    |
+   |    | Edit - ''    (L76, T135, R177, B154)
+   |    | ['Edit2', 'Filter1Edit']
+   |    | child_window(class_name="Edit")
+   |
+   | Edit - ''    (L76, T135, R177, B154)
+   | ['Edit2', 'Filter1Edit']
+   | child_window(class_name="Edit")
+   |
+   | ComboBox - ''    (L583, T131, R712, B157)
+   | ['ComboBox3', 'Filter3ComboBox']
+   | child_window(auto_id="comboBox_Filter3", control_type="System.Windows.Forms.ComboBox")
+   |    | 
+   |    | Edit - ''    (L586, T135, R686, B154)
+   |    | ['Edit3', 'Filter3Edit']
+   |    | child_window(class_name="Edit")
+   |
+   | Edit - ''    (L586, T135, R686, B154)
+   | ['Edit3', 'Filter3Edit']
+   | child_window(class_name="Edit")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad14', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad1', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad10', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad11']
+   | child_window(auto_id="splitContainerDevList", control_type="System.Windows.Forms.SplitContainer")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad15', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   |    |    |
+   |    |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad15', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad12']
+   |    | 
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   |    | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L10, T165, R1905, B1119)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad16', 'Filter1WindowsForms10.Window.8.app.0.1d2098a_r8_ad13']
+   | child_window(auto_id="dataGridViewDevList_1", control_type="Siemens.Automation.Pdm.UI.SubControls.TreeGridView")
+   |
+   | Static - 'Filter3'    (L520, T135, R644, B151)
+   | ['Filter3', 'Static4', 'Filter3Static3']
+   | child_window(title="Filter3", auto_id="label_Filter3", control_type="System.Windows.Forms.Label")
+   |
+   | Static - 'Filter1'    (L10, T135, R118, B151)
+   | ['Filter1', 'Static5', 'Filter1Static']
+   | child_window(title="Filter1", auto_id="label_Filter1", control_type="System.Windows.Forms.Label")
+   |
+   | ComboBox - ''    (L321, T131, R450, B157)
+   | ['Filter1ComboBox', 'ComboBox4', 'Filter2ComboBox']
+   | child_window(auto_id="comboBox_Filter2", control_type="System.Windows.Forms.ComboBox")
+   |    |
+   |    | Edit - ''    (L325, T135, R425, B154)
+   |    | ['Edit4', 'Filter2Edit']
+   |    | child_window(class_name="Edit")
+   | 
+   | Edit - ''    (L325, T135, R425, B154)
+   | ['Edit4', 'Filter2Edit']
+   | child_window(class_name="Edit")
+   |
+   | Static - 'Filter2'    (L259, T135, R383, B151)
+   | ['Static6', 'Filter2', 'Filter2Static']
+   | child_window(title="Filter2", auto_id="label_Filter2", control_type="System.Windows.Forms.Label")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - ''    (L0, T29, R1920, B90)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad17']
+   | child_window(auto_id="panelTop", control_type="System.Windows.Forms.Panel")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'toolStrip'    (L0, T59, R1920, B90)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad18', 'toolStrip', 'toolStripWindowsForms10.Window.8.app.0.1d2098a_r8_ad1']
+   |    | child_window(title="toolStrip", auto_id="toolStrip", control_type="System.Windows.Forms.ToolStrip")
+   |    |
+   |    | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'menuStrip'    (L0, T29, R1920, B59)
+   |    | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad19', 'menuStrip', 'menuStripWindowsForms10.Window.8.app.0.1d2098a_r8_ad1']
+   |    | child_window(title="menuStrip", auto_id="menuStrip", control_type="Siemens.Automation.Pdm.UI.SubControls.MenuStripWithCaption")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'toolStrip'    (L0, T59, R1920, B90)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad18', 'toolStrip', 'toolStripWindowsForms10.Window.8.app.0.1d2098a_r8_ad1']
+   | child_window(title="toolStrip", auto_id="toolStrip", control_type="System.Windows.Forms.ToolStrip")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'menuStrip'    (L0, T29, R1920, B59)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad19', 'menuStrip', 'menuStripWindowsForms10.Window.8.app.0.1d2098a_r8_ad1']
+   | child_window(title="menuStrip", auto_id="menuStrip", control_type="Siemens.Automation.Pdm.UI.SubControls.MenuStripWithCaption")
+   |
+   | WindowsForms10.Window.8.app.0.1d2098a_r8_ad1 - 'statusStrip'    (L0, T1123, R1920, B1151)
+   | ['WindowsForms10.Window.8.app.0.1d2098a_r8_ad110', 'statusStrip', 'statusStripWindowsForms10.Window.8.app.0.1d2098a_r8_ad1']
+   | child_window(title="statusStrip", auto_id="statusStrip", control_type="System.Windows.Forms.StatusStrip")
